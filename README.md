@@ -11,6 +11,12 @@ This repo is mainly unmaintained. But if you found a bug and create a pull reque
 
 ## Changelog
 
+### Version 2.7
+
+#### Fixes
+* Fix CREATE TRIGGER ... EXECUTE FUNCTION error
+* Fix COMMENT ON COLUMN error
+
 ### Version 2.6
 
 #### New Features 

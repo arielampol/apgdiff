@@ -9,6 +9,8 @@ fordfrog@fordfrog.com.
 
 This repo is mainly unmaintained. But if you found a bug and create a pull request chances are good that it will be merged.
 
+This fork was made to share publicly a release fixing those issues written in 2.7 below.
+
 ## Changelog
 
 ### Version 2.7

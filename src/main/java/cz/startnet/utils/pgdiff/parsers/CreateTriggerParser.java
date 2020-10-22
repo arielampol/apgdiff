@@ -105,7 +105,7 @@ public class CreateTriggerParser {
         }
 
         parser.expect("EXECUTE");
-        final String procedureWord  = parser.expectOneOf("PROCEDURE", "FUNCTION");
+        final String procedureWord  = parser.expectOptionalOneOf("PROCEDURE", "FUNCTION");
         if(procedureWord == null){
             parser.expect("PROCEDURE");
         }
